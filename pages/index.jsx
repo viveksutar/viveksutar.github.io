@@ -84,7 +84,7 @@ const Index = () => {
                   </a>
                   <a href="#skills-section" className="btn-lnk">
                     {" "}
-                    My Skill{" "}
+                    My Skills{" "}
                   </a>
                 </div>
               </div>
