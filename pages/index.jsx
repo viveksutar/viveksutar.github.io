@@ -47,7 +47,7 @@ const Index = () => {
                   </h1>
                   <div className="label lui-subtitle">
                     {" "}
-                    I am <strong>Fullstack Developer</strong>
+                    I am <strong>Fullstack Developer new</strong>
                   </div>
                 </div>
                 <div className="description">
