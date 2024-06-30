@@ -24,6 +24,8 @@ export const servicesSliderProps = {
   spaceBetween: 40,
   watchSlidesProgress: true,
   noSwipingSelector: "a",
+  centeredSlides : true,
+  freeMode:true,
   loop: false,
   speed: 1000,
   pagination: {
